@@ -1,5 +1,5 @@
 {
-    "name": "exlo89/laravel-sevdesk-api",
+    "name": "rene-roscher/sevdesk-api",
     "authors": [
         {
             "name": "Martin Appelmann",
@@ -13,10 +13,11 @@
         "php",
         "laravel",
         "exlo89",
-        "laravel-sevdesk-api"
+        "laravel-sevdesk-api",
+        "sevdesk-wrapper"
     ],
     "require": {
-        "php": "^7.4.0",
+        "php": "^7.4.0|^8.0",
         "guzzlehttp/guzzle": "^7.2"
     },
     "require-dev": {
